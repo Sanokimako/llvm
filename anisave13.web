@@ -7,7 +7,6 @@
       "https://i.postimg.cc/qv2qC6dJ/phe-mh-wre-xng.png",
       "https://i.postimg.cc/VkXvb0cP/phe-mh-wre-xng-1.png"
     ],
-
     "members": [
       {
         "img": "https://i.ibb.co/1zSvX1v/32x32.png",
@@ -18,10 +17,18 @@
         "img": "https://i.ibb.co/1zSvX1v/32x32.png",
         "name": "Jane Smith",
         "role": "Event Coordinator"
+      },
+      {
+        "img": "https://i.ibb.co/1zSvX1v/32x32.png",
+        "name": "Mike Chen",
+        "role": "Community Manager"
+      },
+      {
+        "img": "https://i.ibb.co/1zSvX1v/32x32.png",
+        "name": "Sara Lee",
+        "role": "Creative Designer"
       }
-      /* …more members… */
     ],
-
     "works": [
       {
         "img": "https://via.placeholder.com/400x200/ff69b4/ffffff?text=Game+Night+Fun",
@@ -32,10 +39,13 @@
         "img": "https://via.placeholder.com/400x200/ffd700/333333?text=LAN+Party",
         "title": "Annual LAN Party",
         "desc": "100+ players, 24-hour gaming marathon with prizes and fun challenges."
+      },
+      {
+        "img": "https://via.placeholder.com/400x200/ff69b4/ffffff?text=Charity+Stream",
+        "title": "Charity Game Stream",
+        "desc": "Raised $5,000 for children’s education through gaming marathons."
       }
-      /* …more works… */
     ],
-
     "about": {
       "title": "Children Organization",
       "subtitle": "Not an organization but just a group of people playing games from “Why are we still here”<br><em>( ไม่ใช่องค์กรแต่เป็นเพียงกลุ่มคนเล่นเกมจาก “Why are we still here” )</em>",
